@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hello world! 👋
+
+My name is Malte and I recently graduated from TU Berlin with a master's degree in Computer Science, with a focus on cognitive systems. Now I am eager to apply my skills, and develop creative solutions for all sorts of challenges. AI, robotics, embedded systems, you name it...
+
+Gimme a job pls 👉👈
+
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,c,java,js,ts,tensorflow,matlab,anaconda,arduino,docker,cmake,linux,latex,figma,androidstudio,blender,ableton](https://skillicons.dev)
+
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=py,figma,java,nodejs,html,css,bootstrap,androidstudio,notion,latex,npm,windows,react,js,ts,vscode,github,git,tensorflow)](https://skillicons.dev)
+-->
 
 <!--
 **maltebernhard/maltebernhard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
