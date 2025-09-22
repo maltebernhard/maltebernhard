@@ -8,6 +8,11 @@ Gimme a job pls 👉👈
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,c,java,js,ts,tensorflow,matlab,anaconda,arduino,docker,cmake,linux,latex,figma,androidstudio,blender,ableton&perline=9)](https://www.linkedin.com/in/malte-bernhard/)
 
 <!--
+[![My Skills](https://skillicons.dev/icons?i=py)]()
+[![My Skills](https://skillicons.dev/icons?i=cpp)]()
+-->
+
+<!--
 **maltebernhard/maltebernhard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
